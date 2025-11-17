@@ -1,6 +1,6 @@
 # LectureReminderApp
 
-Welcome to **LectureReminderApp** — a lightweight Android app created in Kotlin to help students and educators schedule and receive reminders for lectures.
+Welcome to **LectureReminderApp** — a lightweight LectureReminderApp is a mobile application designed to help students effectively manage their academic schedules by providing timely reminders for lectures. The app allows users to add, modify, and delete lecture schedules, and notifies them before the lecture begins. With a simple and intuitive interface, the application focuses on improving time management and reducing missed lectures.
 
 ## 📌 Features  
 - Add new lectures: specify title, date, time.
