@@ -61,6 +61,7 @@ LectureReminderApp/
 - Material Components: Uses material ui components to make app look more sleek, interactive and easy to use.
 
 🎯 Future Scope
+
 This app can be integrated with more features to solve problems daily faced by students such as to find last year papers/notes during exam time,
 \a place where community events are shared and a place to share more of job opportunities and combinedly create a complete college app for students.
 
